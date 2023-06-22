@@ -1,4 +1,4 @@
-<h1 align="center">Mr Harry Mooney</h1>
+<h1 align="center">Harry Mooney</h1>
 <h3 align="center">A passionate Web/Software developer from the United Kingdom</h3>
 
 - 🔭 I’m currently working on [Word Guesser Game](https://github.com/mooney894/GuessTheWordGame)
